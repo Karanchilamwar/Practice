@@ -1,0 +1,10 @@
+package pojo;
+
+public class HumanResource {
+     private int securityKey;
+     private String firstName;
+     private String lastName;
+     private Address Address;
+     
+     
+}
